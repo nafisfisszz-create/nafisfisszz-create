@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nafis — Indie Developer</title>
+  <desc id="desc">A premium Minecraft-inspired night landscape with blocky mountains, emerald accents, and a starry sky.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071713"/>
+      <stop offset=".55" stop-color="#102b23"/>
+      <stop offset="1" stop-color="#142b35"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6ee7b7"/>
+      <stop offset="1" stop-color="#a7f3d0"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#245b45"/>
+      <stop offset="1" stop-color="#10271f"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#c7f9df" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#sky)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="980" cy="86" r="44" fill="#d1fae5" opacity=".08"/>
+  <circle cx="980" cy="86" r="27" fill="#d1fae5" opacity=".16"/>
+  <g fill="#d1fae5" opacity=".75">
+    <circle cx="830" cy="55" r="2"/><circle cx="1080" cy="48" r="2"/><circle cx="1128" cy="125" r="1.5"/>
+    <circle cx="760" cy="118" r="1.5"/><circle cx="920" cy="28" r="1.5"/><circle cx="700" cy="60" r="1.5"/>
+    <circle cx="1040" cy="160" r="1.5"/><circle cx="870" cy="145" r="1.5"/>
+  </g>
+  <path d="M0 255 100 190 165 225 260 140 340 205 430 165 520 230 610 170 700 225 790 165 880 215 980 145 1080 210 1200 150V360H0Z" fill="#173c30"/>
+  <path d="M0 280 120 220 210 258 320 185 410 248 520 205 620 260 730 205 830 260 940 190 1050 250 1140 205 1200 230V360H0Z" fill="url(#horizon)"/>
+  <path d="M0 300h120v-20h80v20h120v-40h80v40h120v-18h100v18h140v-36h80v36h120v-22h100v22h140v60H0Z" fill="#0b1c17"/>
+  <g opacity=".95">
+    <path d="M270 185h34v-34h34v34h34v34h-102z" fill="#2d7653"/>
+    <path d="M304 151h34v34h-34z" fill="#459b6c"/>
+    <path d="M304 185h68v34h-68z" fill="#174632"/>
+    <path d="M780 205h34v-34h34v34h34v34h-102z" fill="#2d7653"/>
+    <path d="M814 171h34v34h-34z" fill="#459b6c"/>
+    <path d="M814 205h68v34h-68z" fill="#174632"/>
+    <path d="M1040 220h26v-26h26v26h26v26h-78z" fill="#2d7653"/>
+    <path d="M1066 194h26v26h-26z" fill="#459b6c"/>
+  </g>
+  <path d="M64 56h4v4h-4zm12 0h4v4h-4zm-12 12h4v4h-4zm12 0h4v4h-4z" fill="#6ee7b7" opacity=".7"/>
+  <path d="M80 56h4v4h-4zm0 12h4v4h-4z" fill="#6ee7b7" opacity=".35"/>
+  <text x="84" y="145" fill="#a7f3d0" font-family="monospace" font-size="15" letter-spacing="5">INDIE DEVELOPER  /  CREATIVE CODING</text>
+  <text x="80" y="218" fill="#f0fdf4" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="2">NAFIS</text>
+  <rect x="82" y="238" width="76" height="4" rx="2" fill="url(#glow)"/>
+  <text x="82" y="275" fill="#c5ded1" font-family="Arial, Helvetica, sans-serif" font-size="20">Building worlds, shaders &amp; tools.</text>
+  <text x="82" y="316" fill="#6ee7b7" font-family="monospace" font-size="12" letter-spacing="3">PÈUGARIA STUDIO</text>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#b7f7d8" stroke-opacity=".18"/>
+</svg>
