@@ -1,89 +1,84 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nafisfisszz-create/nafisfisszz-create/main/assets/profile-banner.svg" alt="Nafis — PÈUGARIA STUDIO" width="100%">
+<img src="assets/banner.svg" alt="Nafis — PÈUGARIA STUDIO" width="100%">
 
-<h3>INDIE DEVELOPER&nbsp; · &nbsp;SHADER CREATOR&nbsp; · &nbsp;MODDING ENTHUSIAST</h3>
-<p><i>Building worlds, shaders &amp; tools — one experiment at a time.</i></p>
+<br>
 
-<a href="https://github.com/nafisfisszz-create"><img src="https://img.shields.io/badge/GITHUB-NAFIS-193A2B?style=for-the-badge&amp;logo=github&amp;logoColor=E5FFF0" alt="GitHub"></a>
-<a href="https://github.com/nafisfisszz-create"><img src="https://img.shields.io/badge/STUDIO-P%C3%88UGARIA-286B4A?style=for-the-badge" alt="Pèugaria Studio"></a>
+<a href="https://github.com/nafisfisszz-create"><img src="https://img.shields.io/badge/GITHUB-NAFIS-0b2a20?style=for-the-badge&logo=github&logoColor=5dffc4&labelColor=04120d&color=1d5a45" alt="GitHub"></a>
+<img src="https://img.shields.io/badge/STUDIO-P%C3%88UGARIA-0b2a20?style=for-the-badge&labelColor=04120d&color=2f8f6b" alt="Studio">
+<img src="https://img.shields.io/badge/STATUS-BUILDING-0b2a20?style=for-the-badge&labelColor=04120d&color=4db8ff" alt="Status">
 
 </div>
 
-<table width="100%" border="2" bordercolor="#398B61" cellpadding="12" cellspacing="0">
-<tr><td>
+<br>
 
-<table width="100%" border="1" bordercolor="#398B61" cellpadding="10" cellspacing="0">
-<tr><td bgcolor="#173D2D">
-<h2 align="center">◈ &nbsp; PROFILE / OVERVIEW &nbsp; ◈</h2>
-</td></tr>
-<tr><td>
-<table width="100%" border="1" bordercolor="#47785C" cellpadding="9" cellspacing="0">
-<tr bgcolor="#244C38"><th align="left">IDENTITY</th><th align="left">DETAILS</th></tr>
-<tr><td><b>Developer</b></td><td>Nafis</td></tr>
-<tr><td><b>Studio</b></td><td>PÈUGARIA STUDIO</td></tr>
-<tr><td><b>Main interests</b></td><td>Game development · Real-time graphics · Minecraft modding</td></tr>
-<tr><td><b>Current engine</b></td><td>Godot</td></tr>
-<tr><td><b>Current focus</b></td><td>Shaders, rendering systems, and Android client modding</td></tr>
-</table>
-<p><i>“I learn by building: testing ideas, studying how game systems work, and turning experiments into usable projects.”</i></p>
-</td></tr>
-</table>
+<img src="assets/h-about.svg" width="100%" alt="About">
+
+<div align="center">
+
+> *"I learn by building: testing ideas, studying how game systems work, and turning experiments into usable projects."*
+
+| 🧑‍💻 Developer | 🏢 Studio | 🎮 Engine | 🎯 Focus |
+|:---:|:---:|:---:|:---:|
+| **Nafis** | **PÈUGARIA STUDIO** | **Godot** | **Shaders · Rendering · Android modding** |
+
+</div>
 
 <br>
 
-<table width="100%" border="1" bordercolor="#398B61" cellpadding="10" cellspacing="0">
-<tr><td bgcolor="#173D2D"><h2 align="center">◈ &nbsp; FEATURED PROJECTS &nbsp; ◈</h2></td></tr>
-<tr><td>
-<table width="100%" border="1" bordercolor="#47785C" cellpadding="10" cellspacing="0">
-<tr bgcolor="#244C38"><th align="left" width="30%">PROJECT</th><th align="left">DESCRIPTION</th><th align="left">FIELD</th></tr>
-<tr><td><b>🌊 S.D.V Shader</b></td><td>Minecraft visuals focused on atmosphere, water, lighting, and custom effects.</td><td><code>SHADERS</code><br><code>VISUAL FX</code></td></tr>
-<tr><td><b>⚙️ Horizon Android Mods</b></td><td>Experiments expanding native mod capabilities in the Horizon Android client.<br><a href="https://github.com/nafisfisszz-create/horizon-android-more-mods">OPEN REPOSITORY →</a></td><td><code>RUST</code><br><code>ANDROID</code></td></tr>
-<tr><td><b>🎣 FISHING CHIL'S: REBORN</b></td><td>An indie fishing and exploration game currently in development.</td><td><code>GODOT</code><br><code>GAME DEV</code></td></tr>
-<tr><td><b>🧪 Technical Experiments</b></td><td>Small prototypes exploring rendering, shaders, and game technology.</td><td><code>R&amp;D</code><br><code>PROTOTYPING</code></td></tr>
-</table>
-</td></tr>
-</table>
+<img src="assets/h-projects.svg" width="100%" alt="Projects">
+
+<div align="center">
+
+| Project | What it is | Tags |
+|:---|:---|:---:|
+| 🌊 **S.D.V Shader** | Minecraft visuals: atmosphere, water, lighting & custom effects | `SHADERS` `VFX` |
+| ⚙️ **[Horizon Android Mods](https://github.com/nafisfisszz-create/horizon-android-more-mods)** | Expanding native mod capabilities in the Horizon Android client | `RUST` `ANDROID` |
+| 🎣 **Fishing Chil's: Reborn** | Indie fishing & exploration game, in development | `GODOT` `GAMEDEV` |
+| 🧪 **Technical Experiments** | Small prototypes for rendering, shaders & game tech | `R&D` |
+
+</div>
 
 <br>
 
-<table width="100%" border="1" bordercolor="#398B61" cellpadding="10" cellspacing="0">
-<tr><td bgcolor="#173D2D"><h2 align="center">◈ &nbsp; DEVELOPMENT TOOLKIT &nbsp; ◈</h2></td></tr>
-<tr><td>
-<table width="100%" border="1" bordercolor="#47785C" cellpadding="9" cellspacing="0">
-<tr bgcolor="#244C38"><th align="left">TECHNOLOGY</th><th align="left">AREA</th><th align="left">FOCUS</th></tr>
-<tr><td><img src="https://img.shields.io/badge/GODOT-478CBF?style=flat-square&amp;logo=godot-engine&amp;logoColor=white" alt="Godot"></td><td>Game engine</td><td>Game systems &amp; prototyping</td></tr>
-<tr><td><img src="https://img.shields.io/badge/RUST-B66A3C?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust"></td><td>Programming</td><td>Native systems &amp; modding</td></tr>
-<tr><td><img src="https://img.shields.io/badge/BLENDER-E87D0D?style=flat-square&amp;logo=blender&amp;logoColor=white" alt="Blender"></td><td>3D</td><td>Modeling &amp; asset workflows</td></tr>
-<tr><td><img src="https://img.shields.io/badge/WGSL-386B9B?style=flat-square" alt="WGSL"></td><td>Shading</td><td>GPU shader experiments</td></tr>
-<tr><td><img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"></td><td>Version control</td><td>Source management</td></tr>
-</table>
-</td></tr>
-</table>
+<img src="assets/h-arsenal.svg" width="100%" alt="Arsenal">
+
+<div align="center">
+
+**ENGINE & CODE**<br>
+<img src="https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=04120d">
+<img src="https://img.shields.io/badge/RUST-B66A3C?style=for-the-badge&logo=rust&logoColor=white&labelColor=04120d">
+<img src="https://img.shields.io/badge/GDSCRIPT-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=04120d">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=04120d">
+
+**GRAPHICS & SHADERS**<br>
+<img src="https://img.shields.io/badge/GLSL-5dffc4?style=for-the-badge&labelColor=04120d&logoColor=black">
+<img src="https://img.shields.io/badge/WGSL-386B9B?style=for-the-badge&labelColor=04120d">
+<img src="https://img.shields.io/badge/BLENDER-E87D0D?style=for-the-badge&logo=blender&logoColor=white&labelColor=04120d">
+<img src="https://img.shields.io/badge/GLB-4db8ff?style=for-the-badge&labelColor=04120d">
+
+**MODDING & TOOLS**<br>
+<img src="https://img.shields.io/badge/MINECRAFT-62B47A?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=04120d">
+<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=04120d">
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=04120d">
+
+</div>
 
 <br>
 
-<table width="100%" border="1" bordercolor="#398B61" cellpadding="10" cellspacing="0">
-<tr><td bgcolor="#173D2D"><h2 align="center">◈ &nbsp; CURRENT EXPLORATIONS &nbsp; ◈</h2></td></tr>
-<tr><td>
-<table width="100%" border="1" bordercolor="#47785C" cellpadding="10" cellspacing="0">
-<tr bgcolor="#244C38"><th align="left">RENDERING</th><th align="left">GAME TECHNOLOGY</th></tr>
-<tr><td>Real-time shaders and lighting</td><td>Minecraft Java / Bedrock customization</td></tr>
-<tr><td>Water, atmosphere, and visual effects</td><td>Android game-client capabilities</td></tr>
-<tr><td>Environment and visual direction</td><td>Game systems and prototyping</td></tr>
-</table>
-</td></tr>
-</table>
+<img src="assets/h-explore.svg" width="100%" alt="Exploring">
+
+<div align="center">
+
+`Real-time shaders & lighting` · `Water & atmosphere FX` · `Minecraft Java/Bedrock customization` · `Android game-client capabilities` · `Game systems & prototyping`
 
 <br>
 
-<table width="100%" border="2" bordercolor="#65B887" cellpadding="14" cellspacing="0">
-<tr><td bgcolor="#173D2D" align="center">
-<h2>PÈUGARIA STUDIO</h2>
-<i>From a block of an idea to a world of possibilities.</i>
-<br><br><b>✦ &nbsp; THANKS FOR VISITING &nbsp; ✦</b>
-</td></tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=nafisfisszz-create&show_icons=true&hide_border=true&bg_color=04120d&title_color=5dffc4&icon_color=4db8ff&text_color=d5fff0&ring_color=5dffc4" height="150" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisfisszz-create&layout=compact&hide_border=true&bg_color=04120d&title_color=5dffc4&text_color=d5fff0" height="150" alt="langs">
 
-</td></tr>
-</table>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04120d,50:1d5a45,100:0a3a5a&height=110&section=footer&text=From%20a%20block%20of%20an%20idea%20to%20a%20world%20of%20possibilities&fontSize=17&fontColor=d5fff0&fontAlignY=68" width="100%" alt="footer">
+
+</div>
