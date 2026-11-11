@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Nafis — PÈUGARIA STUDIO</title>
+<desc id="desc">Futuristic cyber profile banner with animated aqua and blue neon lines.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07121d"/><stop offset=".55" stop-color="#0b1d2c"/><stop offset="1" stop-color="#10152b"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00f5c8"/><stop offset=".5" stop-color="#00b8ff"/><stop offset="1" stop-color="#7b7cff"/></linearGradient>
+  <radialGradient id="orb"><stop stop-color="#00e5cc" stop-opacity=".22"/><stop offset="1" stop-color="#00e5cc" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#3a8291" stroke-opacity=".19" stroke-width="1"/></pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="clip"><rect width="1200" height="340" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="340" fill="url(#bg)"/><rect width="1200" height="340" fill="url(#grid)"/>
+<circle cx="980" cy="160" r="270" fill="url(#orb)"/>
+<path d="M0 280H280l34-34h572l34 34h280" fill="none" stroke="#00d9cb" stroke-opacity=".24"/>
+<path d="M0 42h290l24 24h572l24-24h290" fill="none" stroke="#00d9cb" stroke-opacity=".32"/>
+<g fill="none" stroke="url(#edge)" stroke-width="2" filter="url(#glow)">
+<path d="M28 92V28h82"/><path d="M1172 92V28h-82"/><path d="M28 248v64h82"/><path d="M1172 248v64h-82"/>
+<rect x="46" y="46" width="1108" height="248" rx="12" stroke-opacity=".7"/>
+</g>
+<path d="M46 82H1154M46 258H1154" stroke="#1d5967" stroke-width="1"/>
+<g font-family="Verdana,monospace">
+<text x="600" y="111" text-anchor="middle" font-size="14" letter-spacing="7" fill="#7efbea">INDEPENDENT CREATOR / DIGITAL WORKSHOP</text>
+<text x="600" y="190" text-anchor="middle" font-size="68" font-weight="bold" letter-spacing="8" fill="#eaffff" filter="url(#glow)">NAFIS</text>
+<text x="600" y="226" text-anchor="middle" font-size="18" letter-spacing="5" fill="#54e9e0">PÈUGARIA STUDIO</text>
+<text x="600" y="270" text-anchor="middle" font-size="11" letter-spacing="3" fill="#91aebc">SHADERS  /  RENDERING  /  GAME TECHNOLOGY</text>
+</g>
+<g fill="#70fbea">
+<circle cx="105" cy="122" r="3"><animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="1095" cy="218" r="3"><animate attributeName="opacity" values="1;.25;1" dur="3.2s" repeatCount="indefinite"/></circle>
+</g>
+<path d="M-200 0L-80 0L-420 340h-120z" fill="#00e5cc" opacity=".035">
+<animateTransform attributeName="transform" type="translate" values="0 0;1500 0" dur="9s" repeatCount="indefinite"/>
+</path>
+<path d="M46 46H1154V294H46Z" fill="none" stroke="#9ffff0" stroke-opacity=".08" stroke-width="5"/>
+</g>
+</svg>
