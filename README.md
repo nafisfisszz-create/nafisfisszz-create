@@ -1,113 +1,61 @@
-<!-- PROFILE HEADER -->
+# NAFIS
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A2E,45:075985,100:06B6D4&text=NAFIS&fontColor=EAFBFF&fontSize=64&fontAlignY=38&desc=INDIE%20DEVELOPER%20%7C%20CREATIVE%20TECH&descAlignY=60&descSize=16&animation=fadeIn" />
+**INDIE DEVELOPER · SHADER CREATOR · MODDING ENTHUSIAST**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Building+games+and+visual+experiences;Minecraft+Shader+%26+Modding+Enthusiast;Creating+under+P%C3%88UGARIA+STUDIO" alt="Typing SVG" />
-</a>
+*Turning ideas into interactive experiences.*
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-nafisfisszz--create-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nafisfisszz-create)
-[![Studio](https://img.shields.io/badge/STUDIO-P%C3%88UGARIA-0891B2?style=for-the-badge&logoColor=white)](https://github.com/nafisfisszz-create)
+[![GitHub](https://img.shields.io/badge/GitHub-nafisfisszz--create-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nafisfisszz-create)
+[![Studio](https://img.shields.io/badge/Studio-P%C3%88UGARIA-0891B2?style=for-the-badge)](https://github.com/nafisfisszz-create)
 
 </div>
 
 ---
 
-## ◈ ABOUT ME
+## ABOUT
 
-<table>
-<tr>
-<td width="58%" valign="top">
+I'm Nafis, an indie developer exploring game development, graphics programming, and Minecraft customization.
 
-### Hey, I'm Nafis.
+- 🎮 **Game development** — building projects with Godot.
+- 🌊 **Shader development** — experimenting with water, lighting, and atmosphere.
+- ⚙️ **Modding** — exploring Android rendering and player customization.
+- 🧪 **Learning by building** — testing ideas and improving through real projects.
 
-I'm an indie developer interested in building interactive worlds, custom rendering experiences, and game-related tools.
+## FEATURED WORK
 
-- 🎮 Developing games with **Godot**
-- 🌊 Experimenting with **Minecraft shaders**
-- ⚙️ Exploring Android rendering and modding
-- 🧊 Interested in graphics, visuals, and game systems
-- 🏷️ Building projects under **PÈUGARIA STUDIO**
+| Project | Overview | Focus |
+|---|---|---|
+| **S.D.V Shader** | A custom Minecraft visual project focused on atmosphere and rendering effects. | Shaders · Visual effects |
+| **Horizon Android Mods** | Experiments with extended mod support for Horizon Android. | Android · Modding |
+| **FISHING CHIL'S: REBORN** | An indie fishing and exploration game in development. | Godot · Game development |
 
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nafisfisszz-create&show_icons=true&hide_border=true&bg_color=071A2E&title_color=67E8F9&icon_color=22D3EE&text_color=D8F3FA&ring_color=22D3EE" width="100%" alt="GitHub statistics" />
-
-</td>
-</tr>
-</table>
-
-## ◈ SELECTED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌊 S.D.V Shader
-Custom Minecraft shader project focused on atmosphere, lighting, water, and visual enhancements.
-
-**Focus:** Shader development · Visual effects
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Horizon Android Mods
-Exploring extended mod support and custom player features for Horizon Android.
-
-**Focus:** Android · Rendering · Modding
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🎣 FISHING CHIL'S: REBORN
-An indie fishing and exploration game in development, built around immersive environments and polished visuals.
-
-**Focus:** Godot · Game development · Environment design
-
-</td>
-</tr>
-</table>
-
-## ◈ TECH & TOOLS
+## TECHNOLOGY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=godot,rust,git,github,blender&theme=dark" alt="Technology icons" />
-
-<br/><br/>
-
-![WGSL](https://img.shields.io/badge/WGSL-Shader%20Language-2563EB?style=flat-square)
-![Minecraft](https://img.shields.io/badge/Minecraft-Development-16A34A?style=flat-square)
-![Game Dev](https://img.shields.io/badge/Game-Development-0891B2?style=flat-square)
-
-</div>
-
-## ◈ GITHUB OVERVIEW
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisfisszz-create&layout=compact&hide_border=true&bg_color=071A2E&title_color=67E8F9&text_color=D8F3FA" height="160" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=nafisfisszz-create&hide_border=true&background=071A2E&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=D8F3FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="70%" alt="GitHub streak" />
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![WGSL](https://img.shields.io/badge/WGSL-2563EB?style=flat-square)
 
 </div>
+
+## CURRENT INTERESTS
+
+- Real-time rendering and shader programming
+- Game environments and visual direction
+- Minecraft Java/Bedrock customization
+- Tools and features for Android game clients
 
 ---
 
 <div align="center">
 
-### PÈUGARIA STUDIO
+**PÈUGARIA STUDIO**
 
 *Building ideas into experiences.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:06B6D4,55:075985,100:071A2E" />
 
 </div>
